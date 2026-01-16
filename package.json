@@ -1,0 +1,24 @@
+{
+  "name": "masai-revision-2-node-day-13",
+  "version": "1.0.0",
+  "description": "Node.js errors are broadly categorized into:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumit01-tech/Masai-Revision-2-Node-Day-13.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sumit01-tech/Masai-Revision-2-Node-Day-13/issues"
+  },
+  "homepage": "https://github.com/Sumit01-tech/Masai-Revision-2-Node-Day-13#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
